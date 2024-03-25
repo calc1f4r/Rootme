@@ -1,0 +1,10 @@
+/* in your .css file */
+.input-shadow {
+  box-shadow: 0 0 10px #8cbce3;
+  transition: all 0.3s ease;
+}
+
+.input-shadow:hover {
+  box-shadow: 0 0 20px #8cbce3;
+  transform: scale(1.02);
+}

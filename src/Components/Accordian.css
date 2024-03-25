@@ -1,0 +1,10 @@
+.outer-div {
+  background: linear-gradient(to left, #f3faff, #f3faff);
+  box-shadow: 0px 0px 10px #c2e5ff;
+  transition: all 0.3s ease;
+}
+
+.outer-div:hover {
+  box-shadow: 0px 0px 20px #8cbce3;
+  transform: scale(1.02);
+}
