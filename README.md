@@ -32,6 +32,9 @@ To get a local copy up and running, follow these steps:
 
 After starting the application, enter the IP address and port number in the provided fields. The application will then generate a list of reverse shells in various languages.
 
+https://github.com/calc1f4r/Rootme/assets/74751675/c372ee38-417a-440d-bf72-3c97ef63f864
+
+
 ### Contributing
 
 To add more reverse shells, edit the `scripts/shellCodes.jsx` file. Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
