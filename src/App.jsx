@@ -25,7 +25,7 @@ function App() {
             <div className="inline-flex items-center space-x-2 justify-center">
               <span>
                 <img
-                  src="src/assets/Rootmelogo.png"
+                  src="/src/assets/Rootmelogo.png"
                   className="h-10"
                   alt="logo"></img>
               </span>
