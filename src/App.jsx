@@ -11,7 +11,7 @@ function App() {
 
   const handleClick = (value) => {
     if (value === activeElement) {
-      setActiveElement(""); 
+      setActiveElement("");
     } else {
       setActiveElement(value);
     }
@@ -25,7 +25,7 @@ function App() {
             <div className="inline-flex items-center space-x-2 justify-center">
               <span>
                 <img
-                  src="src/assets/Rootme logo.png"
+                  src="src/assets/Rootmelogo.png"
                   className="h-10"
                   alt="logo"></img>
               </span>
