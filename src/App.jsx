@@ -24,10 +24,7 @@ function App() {
           <div className="mx-auto flex flex-col sm:flex-row max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
             <div className="inline-flex items-center space-x-2 justify-center">
               <span>
-                <img
-                  src="/src/assets/Rootmelogo.png"
-                  className="h-10"
-                  alt="logo"></img>
+                <img src="/Rootmelogo.png" className="h-10" alt="logo"></img>
               </span>
             </div>
             <div className="flex flex-col sm:flex-row justify-end space-x-0 sm:space-x-5 mt-4">
